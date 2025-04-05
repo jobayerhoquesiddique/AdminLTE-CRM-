@@ -8,7 +8,7 @@ Here’s a **professional `README.md` description** for your `AdminLTE CRM` app.
 
 A modern, lightweight Customer Relationship Management (CRM) system built with Laravel and styled using the powerful [AdminLTE](https://adminlte.io/) dashboard template. This application is designed to help businesses efficiently manage client information, track interactions, and streamline sales processes—all within a responsive and intuitive interface.
 
-## 🚀 Features
+## 🚀 Features (Scroll Down for Video)
 
 - User authentication and role-based access control
 - Client management (add, update, delete)
@@ -89,3 +89,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 - UI powered by [AdminLTE](https://adminlte.io/)
 
 ---
+
+
+https://github.com/user-attachments/assets/3a4b0c5d-dda0-46b4-b6c8-55d228015e3d
+
+
